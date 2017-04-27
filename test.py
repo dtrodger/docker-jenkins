@@ -1,4 +1,5 @@
 import unittest
+print "HI"
 
 class Test(unittest.TestCase):
 
